@@ -1,2 +1,8 @@
-[![github stats](https://sharper-github-readme-stats.vercel.app/api?username=Sharper-Dev&show_icons=true&theme=tokyonight&locale=en&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://sharper-github-readme-stats.vercel.app/api/top-langs/?username=Sharper-Dev&hide=ShaderLab,HLSL,JavaScript,java,Objective-c&theme=tokyonight&count_private=false)](https://github.com/anuraghazra/github-readme-stats)
+# Active Projects
+
+<a href="https://github.com/Sharper-Dev/KiraStudioPublic">
+  <img align="left" src="https://sharper-github-readme-stats.vercel.app/api/pin/?username=Sharper-Dev&repo=KiraStudioPublic&theme=tokyonight" />
+</a>
+<a href="https://github.com/Sharper-Dev/SH-3DS-Info">
+  <img align="right" src="https://sharper-github-readme-stats.vercel.app/api/pin/?username=Sharper-Dev&repo=SH-3DS-Info&theme=tokyonight" />
+</a>
