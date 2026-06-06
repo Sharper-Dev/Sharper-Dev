@@ -1,4 +1,4 @@
-# Active Projects
+# 💻 Active Projects
 
 <a href="https://github.com/Sharper-Dev/KiraStudioPublic">
   <img align="center" src="https://sharper-github-readme-stats.vercel.app/api/pin/?username=Sharper-Dev&repo=KiraStudioPublic&theme=tokyonight" />
